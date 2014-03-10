@@ -1,0 +1,13 @@
+C:\Users\Caleb\Desktop\Splash\splash\splash\bin\Debug\splash.exe.config
+C:\Users\Caleb\Desktop\Splash\splash\splash\bin\Debug\splash.exe
+C:\Users\Caleb\Desktop\Splash\splash\splash\bin\Debug\splash.pdb
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Debug\splash.Form1.resources
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Debug\splash.inicio.resources
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Debug\splash.Properties.Resources.resources
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Debug\splash.exe
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Debug\splash.pdb
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Debug\splash.fArticulos.resources
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Debug\splash.fClientes.resources
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Debug\splash.Buscar.resources

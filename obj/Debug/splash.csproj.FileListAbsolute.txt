@@ -1,0 +1,13 @@
+C:\Users\Caleb\Desktop\Agenda Telefonica\splash\splash\bin\Debug\splash.exe.config
+C:\Users\Caleb\Desktop\Agenda Telefonica\splash\splash\bin\Debug\splash.exe
+C:\Users\Caleb\Desktop\Agenda Telefonica\splash\splash\bin\Debug\splash.pdb
+C:\Users\Caleb\Desktop\Agenda Telefonica\splash\splash\obj\Debug\splash.csprojResolveAssemblyReference.cache
+C:\Users\Caleb\Desktop\Agenda Telefonica\splash\splash\obj\Debug\splash.Form1.resources
+C:\Users\Caleb\Desktop\Agenda Telefonica\splash\splash\obj\Debug\splash.inicio.resources
+C:\Users\Caleb\Desktop\Agenda Telefonica\splash\splash\obj\Debug\splash.Properties.Resources.resources
+C:\Users\Caleb\Desktop\Agenda Telefonica\splash\splash\obj\Debug\splash.csproj.GenerateResource.Cache
+C:\Users\Caleb\Desktop\Agenda Telefonica\splash\splash\obj\Debug\splash.exe
+C:\Users\Caleb\Desktop\Agenda Telefonica\splash\splash\obj\Debug\splash.pdb
+C:\Users\Caleb\Desktop\Splash\splash\splash\bin\Debug\splash.exe.config
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Debug\splash.exe
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Debug\splash.pdb

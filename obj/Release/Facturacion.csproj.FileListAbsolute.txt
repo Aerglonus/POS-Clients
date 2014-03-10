@@ -1,0 +1,15 @@
+C:\Users\Caleb\Desktop\Splash\splash\splash\bin\Release\splash.exe.config
+C:\Users\Caleb\Desktop\Splash\splash\splash\bin\Release\splash.exe
+C:\Users\Caleb\Desktop\Splash\splash\splash\bin\Release\splash.pdb
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Release\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Release\splash.fArticulos.resources
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Release\splash.Buscar.resources
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Release\splash.fClientes.resources
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Release\splash.Form1.resources
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Release\splash.inicio.resources
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Release\splash.Properties.Resources.resources
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Release\Facturacion.csproj.GenerateResource.Cache
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Release\splash.exe
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Release\splash.pdb
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Release\splash.XtraClientes.resources
+C:\Users\Caleb\Desktop\Splash\splash\splash\obj\Release\splash.exe.licenses
